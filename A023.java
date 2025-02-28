@@ -4,7 +4,7 @@ public class A023{
 		Scanner teclado=new Scanner(System.in);
 		int entero;
 	
-		System.out.println("introduce entero");
+		Syste.out.println("introduce entero");
 		entero=teclado.nextInt();
 		suma=entero*(entero+1)/2;
 		System.out.println(suma ); 
